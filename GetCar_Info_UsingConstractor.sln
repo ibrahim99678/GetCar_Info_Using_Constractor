@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCar_Info_UsingConstractor", "GetCar_Info_UsingConstractor\GetCar_Info_UsingConstractor.csproj", "{DB2CEBD4-7FF2-43A3-A063-6E1DE98F102D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_01StaticModifier", "Ex_01StaticModifier\Ex_01StaticModifier.csproj", "{C60E91F1-3E92-4347-A36E-A03E776263E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2CEBD4-7FF2-43A3-A063-6E1DE98F102D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2CEBD4-7FF2-43A3-A063-6E1DE98F102D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2CEBD4-7FF2-43A3-A063-6E1DE98F102D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2CEBD4-7FF2-43A3-A063-6E1DE98F102D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E91F1-3E92-4347-A36E-A03E776263E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E91F1-3E92-4347-A36E-A03E776263E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E91F1-3E92-4347-A36E-A03E776263E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E91F1-3E92-4347-A36E-A03E776263E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35355158-CFBB-4383-9881-DECD0BBFD345}
+	EndGlobalSection
+EndGlobal
